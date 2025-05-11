@@ -32,7 +32,7 @@ body.offcanvas-menu:before {
 }
 
 .text-black {
-    color: #3dd0d5 !important;
+    color: #000000 !important;
 }
 
 .text-secondary {
@@ -94,7 +94,6 @@ h4,
 .h4 {
     font-family: "Montserrat", sans-serif;
     color: #dddde6;
-    text-align: center;
 }
 
 .btn {
