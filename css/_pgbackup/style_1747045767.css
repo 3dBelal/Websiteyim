@@ -49,7 +49,7 @@ body.offcanvas-menu:before {
 }
 
 a {
-    color: #0081e8;
+    color: #0389ff;
     -webkit-transition: .3s all ease;
     -o-transition: .3s all ease;
     transition: .3s all ease;
@@ -144,8 +144,8 @@ h4,
 
 .btn.btn-outline-black:hover {
     border-color: #000000;
-    background: #3dd0d5;
-    color: #000000;
+    background: #000000;
+    color: #ffffff;
 }
 
 .btn.btn-secondary {
