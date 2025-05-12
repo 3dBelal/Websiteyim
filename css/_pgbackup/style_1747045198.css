@@ -8,7 +8,6 @@ body {
     overflow-x: hidden;
     font-size: 16px;
     background-color: #2a3439;
-    background: -webkit-linear-gradient(right, rgb(24, 35, 41) 0%, rgb(42, 52, 57) 51.2953%, rgb(24, 35, 41) 100%);
 }
 
 body:before {
