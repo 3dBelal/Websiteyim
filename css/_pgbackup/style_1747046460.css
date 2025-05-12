@@ -1023,6 +1023,7 @@ h4,
 }
 
 .gsap-reveal-img {
+    line-height: 0;
 }
 
 .gsap-reveal-img .reveal-wrap {
